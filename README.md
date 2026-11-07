@@ -62,6 +62,24 @@ Cada personagem possui um poder especial próprio, com nome e quantidade de dano
 
 Quando um personagem recebe dano, sua vida é reduzida. Caso ela chegue a zero, o personagem é considerado derrotado.
 
+
+## 🎮 Demonstração do projeto
+
+Confira abaixo a execução do RPG Dragon Ball no console.
+
+### Apresentação dos personagens
+
+![Personagens](assets/personagens.png)
+
+### Execução da batalha
+
+![Batalha](assets/batalha.png)
+
+### Resultado final
+
+![Resultado](assets/resultado.png)
+
+
 ## 🏗️ Conceitos de POO aplicados
 
 **Encapsulamento**
